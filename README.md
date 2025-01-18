@@ -4,8 +4,8 @@
 
 [Full blog](https://rramnauth2220.github.io/blog/posts/code/200525-feature-extraction.html#bachu-2010)
 
-1. Fast Fourier Transform
-2. Short Time Fourier Transform
+1. FFT - Fast Fourier Transform
+2. STFT - Short Time Fourier Transform
 3. RMSE
 4. Mel Spectrogram
 5. Zero Crossing Rate
